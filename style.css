@@ -5,6 +5,7 @@
 }
 
 body{
+   
     padding-top: 60px;
     background-image: url(galaxy.jpg) ;
 }
@@ -24,6 +25,7 @@ body{
     color:black;
 }
 h1{
+    font-family: 'Fredericka the Great', cursive;
     text-align:center;
     padding-bottom: 30px;
 }
