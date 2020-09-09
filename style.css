@@ -38,6 +38,6 @@ h1{
 
 img{
     border: 5px solid rgb(68, 13, 68);
-    width: 125%;
-    height:auto;
+    /* width: 125%;
+    height:auto; */
 }
