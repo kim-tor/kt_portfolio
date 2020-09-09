@@ -6,8 +6,35 @@
 
 body{
     padding-top: 60px;
+    background-image: url(galaxy.jpg) ;
 }
 
+.container{
+    background: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.card{
+    color:black;
+    margin-bottom: 40px;
+}
+.card-header{
+    color:black;
+}
 h1{
     text-align:center;
+    padding-bottom: 30px;
+}
+
+.btn{
+    background: darkblue;
+    color:white;
+}
+
+img{
+    border: 5px solid rgb(68, 13, 68);
+    width: 125%;
+    height:auto;
 }
