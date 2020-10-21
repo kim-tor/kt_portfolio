@@ -3,19 +3,33 @@
     position: fixed;
     top:0;
     width: 100%;
+    z-index:1;
 }
 
 body{
    
     padding-top: 60px;
     background-image: url(galaxy.jpg) ;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
 }
 
+
+
 .container{
-    background: black;
+    background: rgba(15, 15, 15, 0.5);
     color: white;
     text-align: center;
     padding-bottom: 30px;
+    margin: auto;
+    width: 50%;
+    border: 3px dotted turquoise;
+    padding: 10px;
+  
+   
+    
 }
 
 .card{
@@ -25,10 +39,11 @@ body{
 .card-header{
     color:black;
 }
-h1{
+h1, h2{
     font-family: 'Fredericka the Great', cursive;
     text-align:center;
     padding-bottom: 30px;
+    opacity:1;
 }
 
 .btn{
@@ -38,6 +53,9 @@ h1{
 
 img{
     border: 5px solid rgb(68, 13, 68);
-    /* width: 125%;
-    height:auto; */
+}
+
+footer{
+    color:white;
+
 }
