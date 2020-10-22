@@ -1,6 +1,6 @@
 # kt_portfolio
 
-[My Portfolio]()
+[My Portfolio](https://kim-tor.github.io/kt_portfolio/)
 
 ===================
 
